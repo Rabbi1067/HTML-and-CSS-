@@ -1,3 +1,41 @@
 q{
     font-size: 30px
 }
+img{
+    width: 200px
+}
+table,
+tr,
+td,
+th{
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    padding: 10px;
+}
+table{
+    margin-bottom: 20px;
+}
+h1,strong{
+    border: 2px solid tomato
+}
+div{
+    background-color: tomato;
+    padding: 20px 25px;
+    margin-bottom: 20px;
+}
+.two{
+    background-color: #ddd;
+}
+#three{
+    background-color:green;
+}
+label{
+    display: block;
+}
+.one{
+    display: inline-block;
+}
+video{
+    width: 500px;
+
+}
